@@ -10,6 +10,9 @@ body {
 	border-radius: 0;
 	border:0;
 }
+.container {
+	margin-left: 0;
+}
 
 #logo-img {
 	background: url('../image/logo.png') no-repeat;
