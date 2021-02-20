@@ -84,7 +84,12 @@ font-size: 5vw;
 
 /* Menu Items */
 
-	.menu-item {
+.ourmenu {
+
+	text-align: center;
+	font-size: 28px;
+}	
+.menu-item {
 
 border:solid black 1px;
 border-radius: 2px;
