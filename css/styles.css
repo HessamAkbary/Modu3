@@ -23,6 +23,9 @@ body {
 	padding-top: 14px;
 
 }
+.container {
+	margin-left: 0;
+}
 .navbar-brand h1 {
 	font-family: 'Lora', serif;
 	color: #557c3e;
